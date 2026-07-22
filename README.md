@@ -1,5 +1,7 @@
 # sml-spectrum
 
+[![CI](https://github.com/sjqtentacles/sml-spectrum/actions/workflows/ci.yml/badge.svg)](https://github.com/sjqtentacles/sml-spectrum/actions/workflows/ci.yml)
+
 Zero-dependency Standard ML library for spectroscopy and astrophysical calculations.
 
 ## API
